@@ -1,0 +1,9 @@
+[package]
+name = "progress"
+version = "0.1.0"
+authors = ["Michael Gerhaeuser <michael.gerhaeuser@gmail.com>"]
+
+[dependencies]
+indicatif = "0.9.0"
+console = "0.6.1"
+rand = "0.5.1"
